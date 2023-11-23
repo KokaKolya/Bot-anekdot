@@ -20,3 +20,6 @@ def generate_joke():
 # Example usage
 joke = generate_joke()
 print(joke)
+
+
+Some news
